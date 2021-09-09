@@ -1,0 +1,6 @@
+﻿Invoke-WebRequest https://github.com/deansaka/Scripts/blob/f0950fc2fd87d29bde932d9b011d7f06437681d5/Default.JCF -Outfile 'C:\temp\Default.JCF'
+Invoke-WebRequest https://github.com/deansaka/Scripts/blob/f0950fc2fd87d29bde932d9b011d7f06437681d5/ZXUAC.UAC -Outfile 'C:\temp\ZXUAC.UAC'
+Invoke-WebRequest https://github.com/deansaka/Scripts/blob/f0950fc2fd87d29bde932d9b011d7f06437681d5/zten-US.zxc -Outfile 'C:\temp\zten-US.zxc'
+Invoke-WebRequest https://github.com/deansaka/Scripts/blob/26bd7ddee229b73adbd495e00af7bae3c09a8716/ZoomTextMigration.ini -Outfile 'C:\temp\ZoomTextMigration.ini'
+Invoke-WebRequest https://github.com/deansaka/Scripts/blob/26bd7ddee229b73adbd495e00af7bae3c09a8716/ZoomTextWelcome.ini -Outfile 'C:\temp\ZoomTextWelcome.ini'
+Invoke-WebRequest https://github.com/deansaka/Scripts/blob/26bd7ddee229b73adbd495e00af7bae3c09a8716/zxcfiles.ini -Outfile 'C:\temp\zxcfiles.ini'
